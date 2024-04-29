@@ -1,0 +1,103 @@
+* {
+    box-sizing: border-box;
+}
+.container{
+    position: relative;
+    left: 280px;
+    top: 150px;
+    width: 400px;
+    height: auto;
+    padding: 10px;
+}
+.container h1{
+    margin-bottom: -10px;
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+    color: #1369e2;
+}
+.container .p1{
+    margin-bottom: -20px;
+}
+.container > p{
+    font-family: sans-serif;
+    font-size: 20px;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+}
+.form{
+    padding: 20px;
+    position: relative;
+    left: 800px;
+    bottom: 80px;
+    right: 180px;
+    box-sizing: border-box;
+    box-shadow: 0px 2px 5px rgb(82, 82, 82);
+    background-color: #fff;
+    width: 450px;
+    height: 400px;
+}
+.input{
+    width: 400px;
+    height: 70px;
+    padding: 10px;
+    border-width: 2px;
+    border-radius: 2px;
+    border-color: rgb(244, 244, 244);
+    font-size: 20px;
+}
+.btn1{
+    margin-top: 10px;
+    position: relative;
+    width: 400px;
+    height: 50px;
+    background-color: #1369e2;
+    border-radius: 10px;
+    border-color: white;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.btn2{
+    position: relative;
+    top: 20px;
+    left: 95px;
+    width: 220px;
+    height: 60px;
+    background-color: rgb(0, 193, 0);
+    border-radius: 10px;
+    border-color: white;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 22px; 
+}
+.frgpass{
+    text-decoration: none;
+    color: rgb(0, 155, 207);
+    position: relative;
+    left: 147px;
+    top: 10px;
+}
+.cna{
+    text-decoration: none;
+    color: white;
+}
+.LI{
+    text-decoration: none;
+    color: white;
+}
+.CAP{
+    text-decoration: none;
+    color: #000;
+}
+.text{
+    font-family: sans-serif;
+    position: relative;
+    left: 862px;
+    bottom: 50px;
+    display: inline-block;
+    font-size: 15px;
+}
+.text span{
+    font-weight: bolder;
+}
